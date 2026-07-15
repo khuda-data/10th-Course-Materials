@@ -48,4 +48,7 @@ KHUDA 10기 방학세션 자료 모음집
 | [정시찬](https://github.com/Jeong-Sichan) | jsc66519075@khu.ac.kr | 퀴즈 제작 |
 | [이채경](https://github.com/chaegyeong) | leecg1219@khu.ac.kr | 코드 방탈출 제작 |
 
+## Acknowledgements
+본 프로젝트의 "코드 방탈출" 템플릿은 [gaeng02](https://github.com/gaeng02)님이 제공해주셨습니다. ([sondin144@gmail.com](mailto:sondin144@gmail.com))
+
 자료와 관련된 문의는 해당 담당자에게 연락 바랍니다.
